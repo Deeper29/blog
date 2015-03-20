@@ -3,7 +3,7 @@ menu:
   #项目作品: /projects
   #关于我: /aboutme
 rss: /atom.xml
-description: UI Designer  Plan to be coder
+description: UI Designer.Plan to be coder
 social:
   weibo: http://weibo.com/deeper29
   github: https://github.com/Deeper29
@@ -12,6 +12,7 @@ page_comment: false
 logo: /images/logo2.jpg
 background:
   cover: /images/background-cover.jpg
+  color: cover-disabled
 
 archive_date_format: MMM DD
 fancybox: true
@@ -19,4 +20,4 @@ fancybox: true
 duoshuo_shortname: deeper29
 
 #google_analytics: UA-42596364-1
-favicon: /favicon.ico
+favicon: images/favicon.ico
