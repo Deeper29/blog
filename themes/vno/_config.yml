@@ -1,9 +1,9 @@
 menu:
   #Archives: /archives
   #项目作品: /projects
-  #关于我: /aboutme
-rss: /atom.xml
-description: UI Designer.Plan to be coder
+  关于我: /about
+#rss: /atom.xml
+description: 
 social:
   weibo: http://weibo.com/deeper29
   github: https://github.com/Deeper29
