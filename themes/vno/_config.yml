@@ -1,6 +1,6 @@
 menu:
   #Archives: /archives
-  #项目作品: /projects
+  作品: /tags/Work
   关于我: /about
 #rss: /atom.xml
 description: 
