@@ -1,7 +1,7 @@
 title: "图标和图像尺寸"
 date: 2015-04-29 16:05:54
 tags:
--Blog
+- Blog
 
 ---
 **译文**-原文来自[苹果官方文件](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1)
