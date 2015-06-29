@@ -24,5 +24,5 @@ UI设计师
 2015年上线，此为第二版个人网站，定义为设计为主，博客为辅的个人网站
 
 ###朋友们
---[Nic](http://www.nicvision.com/)--         --[Ray](http://rayps.com/)--
+--[Nic](www.niceui.cn)--         --[Ray](http://rayps.com/)--         --[川叔](http://chenweichuan.com/)--
 
