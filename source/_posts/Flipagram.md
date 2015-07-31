@@ -50,4 +50,13 @@ ps:关于Splash Screen可以看 [<为什么不要 Splash Screen>](http://zhuanla
 <br>
 {% asset_img voice.jpeg %}
 
+<br>
+<br>
+<br>
+<br>
+**另外在歌曲列表页面，点击歌曲时并不是播放歌曲，而是菜单向下出项2个选项30s免费预览和iTunes购买**
+<br>
+{% asset_img list2.jpg %}
+{% asset_img list.jpg %}
+
 
